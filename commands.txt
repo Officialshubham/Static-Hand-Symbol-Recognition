@@ -1,0 +1,4 @@
+
+conda install pytorch torchvision torchaudio cpuonly -c pytorch
+
+pip install fastai==1.0.61
